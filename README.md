@@ -6,7 +6,7 @@ A curated collection of edge-case prompts, logic puzzles, and multi-domain debat
 
 Single-model evaluation is inherently flawed. If a model generates a hallucination, asking that same model to "double-check its work" often results in it just confirming its own bias. 
 
-By forcing models to act as adversarial peers—where multiple models critique, refine, and judge each other's outputs across several rounds—we can programmatically surface a robust consensus without human intervention.
+By forcing models to act as adversarial peers, where multiple models critique, refine, and judge each other's outputs across several rounds, we can programmatically surface a robust consensus without human intervention.
 
 ## 📂 The Live Debate Archive
 
@@ -19,7 +19,7 @@ Below is the live catalog of model consensus trials. Each assembly tracks the dy
 | **Computer Science Degrees Are Obsolete**<br>Does university theory actually matter for building modern web applications? | Refinement | 92% consensus<br>1 round | [Read Assembly ↗](https://debate.tellodb.com/share/cs-degrees-are-obsolete) |
 | **The SPA Era Was a Mistake**<br>Are Single Page Applications completely useless in 2026 compared to hyper-optimized server-rendered HTML? | Refinement | 92% consensus<br>1 round | [Read Assembly ↗](https://debate.tellodb.com/share/spa-era-was-a-mistake) |
 | **AI Will Eradicate Junior Developers by 2030**<br>Is learning to code officially a dead-end career path? | Refinement | 91% consensus<br>1 round | [Read Assembly ↗](https://debate.tellodb.com/share/ai-will-eradicate-junior-devs) |
-| **RAG Is Dead — Long Live Context Windows**<br>Will 10-million token context windows completely annihilate the need for complex vector databases? | Refinement | 90% consensus<br>1 round | [Read Assembly ↗](https://debate.tellodb.com/share/rag-is-dead-long-live-context) |
+| **RAG Is Dead ,  Long Live Context Windows**<br>Will 10-million token context windows completely annihilate the need for complex vector databases? | Refinement | 90% consensus<br>1 round | [Read Assembly ↗](https://debate.tellodb.com/share/rag-is-dead-long-live-context) |
 | **Prompt Engineering Is a Fake Job**<br>Will this entire profession completely disappear as frontier models get smarter? | Refinement | 90% consensus<br>1 round | [Read Assembly ↗](https://debate.tellodb.com/share/prompt-engineering-is-a-fake-job) |
 | **Outsourcing Auth to Auth0 Is a Trap**<br>Does building auth in-house save startups from catastrophic vendor lock-in? | Refinement | 90% consensus<br>1 round | [Read Assembly ↗](https://debate.tellodb.com/share/outsourcing-auth-is-a-trap) |
 | **Next.js vs SvelteKit**<br>Is Next.js a bloated, over-engineered mess compared to the simplicity of SvelteKit? | Refinement | 90% consensus<br>1 round | [Read Assembly ↗](https://debate.tellodb.com/share/nextjs-vs-sveltekit) |
@@ -44,8 +44,8 @@ Below is the live catalog of model consensus trials. Each assembly tracks the dy
 | **The "10x Developer" Is a Toxic Myth**<br>Does this label only exist to justify egomaniacs and extreme developer burnout? | Refinement | 75% consensus<br>2 rounds | [Read Assembly ↗](https://debate.tellodb.com/share/10x-developer-is-a-myth) |
 | **Open-Source AI Is Losing the War**<br>Can Llama 3 actually compete with GPT-4o, or are we doomed to proprietary monopolies? | Refinement | 70% consensus<br>2 rounds | [Read Assembly ↗](https://debate.tellodb.com/share/open-source-ai-is-losing) |
 | **OpenAI Stole Our Code**<br>Should AI companies face massive class-action lawsuits for training on public GitHub repos? | Refinement | 63% consensus<br>2 rounds | [Read Assembly ↗](https://debate.tellodb.com/share/openai-stole-our-code) |
-| **Redux Is Legacy Trash**<br>Should anyone still be using Redux in 2026, or does it belong in the graveyard with jQuery? | Refinement | —<br>2 rounds | [Read Assembly ↗](https://debate.tellodb.com/share/redux-is-legacy-trash) |
-| **Micro-Frontends Are a Scam**<br>Is it the most over-engineered architectural pattern ever sold to enterprise companies? | Refinement | —<br>2 rounds | [Read Assembly ↗](https://debate.tellodb.com/share/micro-frontends-are-a-scam) |
+| **Redux Is Legacy Trash**<br>Should anyone still be using Redux in 2026, or does it belong in the graveyard with jQuery? | Refinement | , <br>2 rounds | [Read Assembly ↗](https://debate.tellodb.com/share/redux-is-legacy-trash) |
+| **Micro-Frontends Are a Scam**<br>Is it the most over-engineered architectural pattern ever sold to enterprise companies? | Refinement | , <br>2 rounds | [Read Assembly ↗](https://debate.tellodb.com/share/micro-frontends-are-a-scam) |
 
 ## ⚙️ How It Works Under the Hood
 
